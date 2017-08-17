@@ -4,7 +4,7 @@ Propulsion Raw Data
 This repository contains the files from the wheelchair propulsion experiment realized at UFABC.
 
 Location of anatomical markers on front side
-![alt text](https://github.com/fei-nta/Propulsion-Raw-Data/blob/master/images/2.JPG" Frontal image")
+![front side](https://raw.githubusercontent.com/fei-nta/Propulsion-Raw-Data/master/images/readme_pic.JPG)
 
 The first day of trial out was just focused in capturing the 3D position of the markers. The folder "propulsion raw data-01" contains all four propulsion experiments.
 
